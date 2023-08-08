@@ -93,3 +93,5 @@ class TextEditorHistory
 
 ## How to setup Github actions
 
+![Csharp Github actions](https://github.com/luiscoco/GoF_Csharp-16.Iterator_pattern/assets/32194879/1263a83b-d11c-4a48-ad5c-c22eecd42836)
+
